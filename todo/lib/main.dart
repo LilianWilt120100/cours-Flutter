@@ -22,7 +22,7 @@ class TodoList extends StatelessWidget {
       title: 'todo',
       theme: ThemeData(
         primarySwatch: Colors.teal,
-        fontFamily: 'Outfit',
+        fontFamily: 'Roboto',
       ),
       initialRoute: '/all_tasks',
       routes: {
